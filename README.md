@@ -3,7 +3,9 @@
 ---
 
 ## About Me
-I know my name kinda sounds like someone's Grandfather that's why i am SJ.
+I know my name kinda sounds like someone's Grandfather.
+<br>
+That's why you can call me SJ.
 <br>
 I'm a Bachelor's Student in AI/ML domain, passionate about building intelligent systems and the infrastructure that powers them.
 
