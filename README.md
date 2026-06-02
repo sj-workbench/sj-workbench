@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-I know my name kinda sounds like someone's Grandfather.
+I know my name's kinda odd to read.
 <br>
 That's why you can call me SJ.
 <br>
