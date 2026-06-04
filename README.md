@@ -9,7 +9,7 @@ That's why you can call me SJ.
 <br>
 I'm a Bachelor's Student in AI/ML domain, passionate about building intelligent systems and the infrastructure that powers them.
 
-My interests sit at the intersection of **ML Engineering**, **MLOps**, **AI Infrastructure**, and **Cloud Engineering** — I care about not just building models, but deploying, scaling, and maintaining them in production environments.
+My interests sit at the intersection of **ML Engineering**, **MLOps**, **AI Engineering**, and **Back-end Engineering** — I care about not just building models, but deploying, scaling, and maintaining them in production environments.
 
 I'm currently on a self-driven journey to deepen my skills in machine learning, cloud platforms, and DevOps tooling, with a long-term goal of working in a **Dream tech industry**.
 
@@ -17,7 +17,7 @@ Always learning. Always building.
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 Feel free to reach out — I'm always open to interesting conversations, collaborations, or opportunities.
 
