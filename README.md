@@ -8,7 +8,7 @@
 
 ###
 
-<h3 data-importer="text" align="left"><br><br>I m Suryanshu Jena.<br>You can call me SJ.<br>I'm a Bachelor's Student in AI/ML domain, passionate about building intelligent systems and the infrastructure that powers them.<br><br>My interests sit at the intersection of ML Engineering, AI Engineering, and Back-end Engineering — I care about not just building models, but deploying, scaling, and maintaining them in production environments.<br><br>I'm currently on a self-driven journey to deepen my skills in machine learning, Artificial Intelligent and Backend development, with a long-term goal of working in a Dream tech industry.<br><br>Always learning. Always building.</h3>
+<h3 data-importer="text" align="left">I m Suryanshu Jena.<br>You can call me SJ.<br>I'm a Bachelor's Student in AI/ML domain, passionate about building intelligent systems and the infrastructure that powers them.<br><br>My interests sit at the intersection of ML Engineering, AI Engineering, and Back-end Engineering — I care about not just building models, but deploying, scaling, and maintaining them in production environments.<br><br>I'm currently on a self-driven journey to deepen my skills in machine learning, Artificial Intelligent and Backend development, with a long-term goal of working in a Dream tech industry.<br><br>Always learning. Always building.</h3>
 
 ###
 
@@ -19,14 +19,6 @@
 <div data-importer="image" align="center">
   <img data-importer="image" height="210" src="https://i.pinimg.com/originals/1c/4b/bc/1c4bbcd54b41fd1284325a3f5fd41c8e.gif"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sj-workbench/sj-workbench/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sj-workbench/sj-workbench/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sj-workbench/sj-workbench/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
 
 ###
 
