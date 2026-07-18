@@ -8,7 +8,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">I m Suryanshu Jena.<br>You can call me SJ.<br>I'm a Bachelor's Student in AI/ML domain, passionate about building intelligent systems and the infrastructure that powers them.<br><br>My interests sit at the intersection of ML Engineering, AI Engineering, and Back-end Engineering — I care about not just building models, but deploying, scaling, and maintaining them in production environments.<br><br>I'm currently on a self-driven journey to deepen my skills in machine learning, Artificial Intelligent and Backend development, with a long-term goal of working in a Dream tech industry.<br><br>Always learning. Always building.</h3>
+<h3 data-importer="text" align="left">I'm Suryanshu Jena.<br>You can call me SJ.<br>I'm a Bachelor's Student in AI/ML domain, passionate about building intelligent systems and the infrastructure that powers them.<br><br>My interests sit at the intersection of ML Engineering, AI Engineering, and Back-end Engineering — I care about not just building models, but deploying, scaling, and maintaining them in production environments.<br><br>I'm currently on a self-driven journey to deepen my skills in machine learning, Artificial Intelligent and Backend development, with a long-term goal of working in a Dream tech industry.<br><br>Always learning. Always building.</h3>
 
 ###
 
