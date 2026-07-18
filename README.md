@@ -66,24 +66,6 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/suryanshu-jena-6b0330347" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="41" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/corruptxSJ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="63" height="41" alt="twitter logo"  />
-  </a>
-  <a href="work.contactsuryanshu@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="41" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-
-
-###
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
